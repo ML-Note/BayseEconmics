@@ -33,6 +33,9 @@
 | 6	| An introduction to the the Metropolis Hastings Algorithm| 	C5	| 张宏音| 
 | 7	| State-Space models with time-varying parameters      | 	C7	| 邹政伟| 
 
-### REF
+**REF**
 
 - [一本为银行家写的计量书](https://mp.weixin.qq.com/s/hYY8cgzWDwnN5FsL1O8Nrg)
+
+### License
+本作品采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/) 进行许可。
