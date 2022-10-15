@@ -11,7 +11,7 @@
 
 排名顺序（乱序） 不暗含贡献度
 | 成员       | 个人简介 |  职责 | 
-| :--------- | :-- |  :-- |   :-- | 
+| :--------- | :-- |   :-- | 
 |叶仕奇 | 厦门大学 博士生 | 指导 | 
 |[范小龙](https://www.cnblogs.com/RankFan/)	| 厦门大学 研究生	|分享 | 
 |张宏音	| 厦门大学 研究生	|分享 | 
@@ -23,7 +23,7 @@
 ### 内容
 
 | 序号       | 	内容	| 参考| 	分享人| 
-| :--------- | :-- ----|  :-- |：----| 
+| :--------- | :------|  :-- |：----| 
 | 1	Intro & Matlab的应用| 	| C8 Appendix| 	叶仕奇(待定） 范小龙| 
 | 2	Gibbs Sampling for Linear Regression Models	| C1	| 范小龙| 
 | 3	Gibbs Sampling for Vector Autoregressions| 	C2| 	孙熠| | 
