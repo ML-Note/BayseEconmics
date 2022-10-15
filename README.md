@@ -23,9 +23,8 @@
 ### 内容
 
 
-| 序号       | 内容 |  参考 | 参考 | 
-| :--------- | :-- |   :-- | :-- | 
-
+| 序号       | 内容 |  参考 | 分享人 | 
+| :--------- | :-- |   :-- | :---- | 
 | 1 |	Intro & Matlab的应用                         | 	C8 Appendix| 	叶仕奇(待定） 范小龙| 
 | 2	| Gibbs Sampling for Linear Regression Models	 | C1	| 范小龙| 
 | 3	| Gibbs Sampling for Vector Autoregressions    | 	C2| 	孙熠| | 
