@@ -24,10 +24,10 @@
 
 | 序号       | 	内容	| 参考| 	分享人| 
 | :--------- | :------| :----- |：----| 
-| 1	Intro & Matlab的应用| 	C8 Appendix| 	叶仕奇(待定） 范小龙| 
-| 2	Gibbs Sampling for Linear Regression Models	| C1	| 范小龙| 
-| 3	Gibbs Sampling for Vector Autoregressions| 	C2| 	孙熠| | 
-| 4	Gibbs Sampling for state space models	| C3	| 高婧| 
-| 5	Gibbs Sampling for Markov switching models| 	C4	| 林若与| 
-| 6	An introduction to the the Metropolis Hastings Algorithm| 	C5	| 张宏音| 
-| 7	State-Space models with time-varying parameters| 	C7	| 邹政伟| 
+| 1 |	Intro & Matlab的应用| 	C8 Appendix| 	叶仕奇(待定） 范小龙| 
+| 2	|Gibbs Sampling for Linear Regression Models	| C1	| 范小龙| 
+| 3	|Gibbs Sampling for Vector Autoregressions| 	C2| 	孙熠| | 
+| 4	|Gibbs Sampling for state space models	| C3	| 高婧| 
+| 5 |	Gibbs Sampling for Markov switching models| 	C4	| 林若与| 
+| 6	|An introduction to the the Metropolis Hastings Algorithm| 	C5	| 张宏音| 
+| 7	|State-Space models with time-varying parameters| 	C7	| 邹政伟| 
