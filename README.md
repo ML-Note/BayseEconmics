@@ -32,3 +32,7 @@
 | 5 |	Gibbs Sampling for Markov switching models     | 	C4	| 林若与| 
 | 6	| An introduction to the the Metropolis Hastings Algorithm| 	C5	| 张宏音| 
 | 7	| State-Space models with time-varying parameters      | 	C7	| 邹政伟| 
+
+### REF
+
+- [一本为银行家写的计量书](https://mp.weixin.qq.com/s/hYY8cgzWDwnN5FsL1O8Nrg)
